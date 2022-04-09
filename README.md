@@ -101,7 +101,6 @@ https://www.figma.com/file/DB5UlZbzmwbUPtzQOXUZD5/Gathr.ly
 |createdAt	       |DateTime	     |date when post is created (default field)       |
 |updatedAt	       |DateTime    	  |date when post is last updated (default field)  |
 ### Networking
-- [Add list of network requests by screen ]
 * Home Page
    *(READ/GET) Query all events that the user involves in.
 * New Event Page
@@ -112,7 +111,3 @@ https://www.figma.com/file/DB5UlZbzmwbUPtzQOXUZD5/Gathr.ly
    *(READ/POST) Query friends(user object) the logged in user have
 * New Friend Page
    *(CREATE/POST) Add new friend
-
-**
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
