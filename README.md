@@ -77,15 +77,17 @@ Scheduling outing app. Users can set dates that they are available and app will 
 * Create event => event list
 
 
-## Wireframes //TODO
+## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+<img src="https://github.com/Gathr-ly/Gathr-ly/blob/main/wireframe.PNG" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+https://www.figma.com/file/DB5UlZbzmwbUPtzQOXUZD5/Gathr.ly
 
 ### [BONUS] Interactive Prototype
 
-## Schema //TODO
+## Schema
 ### Events
 | Property         | Type          |Description                                     |
 | ---------------- | ------------- | ---------------------------------------------- |
@@ -100,5 +102,17 @@ Scheduling outing app. Users can set dates that they are available and app will 
 |updatedAt	       |DateTime    	  |date when post is last updated (default field)  |
 ### Networking
 - [Add list of network requests by screen ]
+* Home Page
+   *(READ/GET) Query all events that the user involves in.
+* New Event Page
+   *(CREATE/POST) Create new event
+* Profile
+   *(READ/GET) Query logged in user object
+* Friend Page
+   *(READ/POST) Query friends(user object) the logged in user have
+* New Friend Page
+   *(CREATE/POST) Add new friend
+
+**
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
