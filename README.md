@@ -24,7 +24,7 @@ Scheduling outing app. Users can set dates that they are available and app will 
 
 **Required Must-have Stories**
 
-* Login/Sign Up page - User logs in to app if they have an account, otherwise they will sign up for an account.
+(DONE)  Login/Sign Up page - User logs in to app if they have an account, otherwise they will sign up for an account.
 * Add a friend - user can add a friend to contact list
 * Invite a friend using a code 
 * User can add availability
