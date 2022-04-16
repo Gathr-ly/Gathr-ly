@@ -113,4 +113,4 @@ https://www.figma.com/file/DB5UlZbzmwbUPtzQOXUZD5/Gathr.ly
    *(CREATE/POST) Add new friend
    
  ### Progress
- <img src='https://i.imgur.com/SNBsPMN.gif' title='Video Walkthrough' height='650px' alt='Video Walkthrough' />
+
