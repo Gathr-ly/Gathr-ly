@@ -24,7 +24,7 @@ Scheduling outing app. Users can set dates that they are available and app will 
 
 **Required Must-have Stories**
 
-(DONE)  Login/Sign Up page - User logs in to app if they have an account, otherwise they will sign up for an account.
+- [X]  Login/Sign Up page - User logs in to app if they have an account, otherwise they will sign up for an account.
 * Add a friend - user can add a friend to contact list
 * Invite a friend using a code 
 * User can add availability
@@ -111,3 +111,6 @@ https://www.figma.com/file/DB5UlZbzmwbUPtzQOXUZD5/Gathr.ly
    *(READ/POST) Query friends(user object) the logged in user have
 * New Friend Page
    *(CREATE/POST) Add new friend
+   
+ ### Progress
+ <img src='https://i.imgur.com/SNBsPMN.gif' title='Video Walkthrough' height='650px' alt='Video Walkthrough' />
