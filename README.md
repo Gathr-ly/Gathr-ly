@@ -25,15 +25,15 @@ Scheduling outing app. Users can set dates that they are available and app will 
 **Required Must-have Stories**
 
 - [X]  Login/Sign Up page - User logs in to app if they have an account, otherwise they will sign up for an account.
-* Add a friend - user can add a friend to contact list
-* Invite a friend using a code 
-* User can add availability
-* User can create event
-* User can edit event
-* User can delete event
-* User can view all events
-* User can view overlapping available times for everybody/most people
-* Users in same event can chat together
+- [X]  Add a friend - user can add a friend to contact list
+- [ ]  Invite a friend using a code 
+- [ ]  User can add availability
+- [ ]  User can create event
+- [ ]  User can edit event
+- [ ]  User can delete event
+- [ ]  User can view all events
+- [ ]  User can view overlapping available times for everybody/most people
+- [ ]  Users in same event can chat together
 
 **Optional Nice-to-have Stories**
 
